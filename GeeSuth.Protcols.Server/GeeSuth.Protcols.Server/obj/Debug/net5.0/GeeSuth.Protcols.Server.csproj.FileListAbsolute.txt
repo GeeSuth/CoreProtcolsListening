@@ -1,0 +1,16 @@
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\bin\Debug\net5.0\GeeSuth.Protcols.Server.exe
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\bin\Debug\net5.0\GeeSuth.Protcols.Server.deps.json
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\bin\Debug\net5.0\GeeSuth.Protcols.Server.runtimeconfig.json
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\bin\Debug\net5.0\GeeSuth.Protcols.Server.runtimeconfig.dev.json
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\bin\Debug\net5.0\GeeSuth.Protcols.Server.dll
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\bin\Debug\net5.0\ref\GeeSuth.Protcols.Server.dll
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\bin\Debug\net5.0\GeeSuth.Protcols.Server.pdb
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\GeeSuth.Protcols.Server.csproj.AssemblyReference.cache
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\GeeSuth.Protcols.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\GeeSuth.Protcols.Server.AssemblyInfoInputs.cache
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\GeeSuth.Protcols.Server.AssemblyInfo.cs
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\GeeSuth.Protcols.Server.csproj.CoreCompileInputs.cache
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\GeeSuth.Protcols.Server.dll
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\ref\GeeSuth.Protcols.Server.dll
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\GeeSuth.Protcols.Server.pdb
+E:\Windows Application\2021\Protcols Listening\CoreProtcolsListening\GeeSuth.Protcols.Server\GeeSuth.Protcols.Server\obj\Debug\net5.0\GeeSuth.Protcols.Server.genruntimeconfig.cache
